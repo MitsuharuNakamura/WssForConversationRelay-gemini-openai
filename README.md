@@ -26,8 +26,8 @@
 1. リポジトリをクローンします。
 
    ```bash
-   git clone https://github.com/MitsuharuNakamura/conversationRelayDemo.git
-   cd conversationRelayDemo
+   git clone https://github.com/MitsuharuNakamura/WssForConversationRelay-gemini-openai.git
+   cd WssForConversationRelay-gemini-openai
    ```
 
 2. 必要なパッケージをインストールします。
